@@ -1,3 +1,3 @@
 # newRepo
 This is my first Git Repository
-Author-Shakshi
+Author-Shakshi Shree
